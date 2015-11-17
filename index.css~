@@ -1,0 +1,36 @@
+.navbar-fixed-top.container {
+	   background-color:rgba(245, 245, 245, 0.4);
+	   height:75px;	
+      font-family:"cursive", "serif", "sans-serif","fantasy",'Times New Roman', "monospace",'Oswald','Georgia';
+      font-size: 0.9em;
+      line-height: 1.420;
+}
+.mynavbar {
+	text-align:center;
+}
+.mynavbar .nav {
+	float:none;
+}
+.mynavbar .nav li {
+	display:inline-block;
+	float:none;
+	margin:0 20px;
+	vertical-align:middle;
+}
+.navbar-brand {
+	display:none
+}
+.navbar-text {
+    float: none;
+}
+.copyright{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.navbar-fixed-bottom.container {
+	   background-color:rgba(245, 245, 245, 0.4);
+	   height:10px;	
+      font-family:"cursive", "serif", "sans-serif","fantasy",'Times New Roman', "monospace",'Oswald','Georgia';
+      font-size: 0.9em;
+      line-height: 1.420;
+}
