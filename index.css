@@ -1,3 +1,7 @@
+body{
+	background : url("main_bg.jpg");
+}
+
 .navbar-fixed-top.container {
 	   background-color:rgba(245, 245, 245, 0.4);
 	   height:75px;	
@@ -29,8 +33,9 @@
 }
 .navbar-fixed-bottom.container {
 	   background-color:rgba(245, 245, 245, 0.4);
-	   height:10px;	
+	   height:5px;	
       font-family:"cursive", "serif", "sans-serif","fantasy",'Times New Roman', "monospace",'Oswald','Georgia';
-      font-size: 0.9em;
+      font-size: 0.5em;
       line-height: 1.420;
 }
+
